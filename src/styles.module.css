@@ -7,3 +7,47 @@
   font-size: 2em;
   text-align: center;
 }
+.primary {
+  font-size: 12px;
+  padding: 10px 15px;
+  background-color: rgb(97, 97, 238);
+  color: #ffffff;
+  border: 1px solid rgb(97, 97, 238);
+  border-radius: 2px;
+}
+
+.default {
+  font-size: 12px;
+  padding: 10px 15px;
+  background-color: white;
+  color: #000;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.dashed {
+  font-size: 12px;
+  padding: 10px 15px;
+  background-color: white;
+  color: #000;
+  border: 1px dashed black;
+  border-radius: 2px;
+}
+
+.text {
+  font-size: 16px;
+  padding: 10px 15px;
+  background-color: white;
+  color: #000;
+  border: none;
+  border-radius: 2px;
+}
+.link {
+  font-size: 16px;
+  padding: 10px 15px;
+  background-color: white;
+  color: blue;
+  border: none;
+  text-decoration: underline;
+  border-radius: 2px;
+}
